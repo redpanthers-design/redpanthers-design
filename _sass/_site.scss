@@ -1,17 +1,13 @@
 @charset "utf-8";
 @import "normalize";
-@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
-@import "../../node_modules/font-awesome/scss/font-awesome";
-@import "../../node_modules/slick-carousel/slick/slick";
-@import "../../node_modules/slick-carousel/slick/slick-theme";
-@import "../../node_modules/bxslider/dist/jquery.bxslider.min.css";
-@import "../../node_modules/fancybox/dist/scss/jquery.fancybox";
+@import "../node_modules/slick-carousel/slick/slick";
+@import "../node_modules/slick-carousel/slick/slick-theme";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,600i,800');
-@import "animation.css";
-@import "grid.css";
-@import "reset.css";
-@import "revolution.css";
-@import "switcher.css";
+@import "animation";
+@import "grid";
+@import "reset";
+@import "revolution";
+@import "switcher";
 @import "common/common";
 
 html, body {

@@ -1,23 +1,126 @@
 ---
-layout: default
+layout: home
+title: Design @ Redpanthers
 ---
 
-<div class="home">
+<div class="home-banner banner">
+  <div class="item-image" style="background-image:url('../images/background.jpg')">
+    <div class="container text-justify">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="margin-bottom-10">
+            <b>RedPanthers</b>,design studio
+            <br>
+            of Web Architects
+          </div>
+          <div class="centy margin-bottom-30">
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+            Passepartout went timidly ashore on this so curious territory of<br>
+            the Sons of the Sun. He had nothing better to do than, taking<br>
+            chance for his guide, to wander aimlessly through the streets
+          </div>
+          <button type="button" class="btn btn-default home-banner-button"> BUY IT NOW!</button>
+        </div>
+        <div class="col-md-6">
+          <img class="img-responsive" src="images/iphone.png">
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
+
+<!-- Home section two -->
+<div class="home-section-two rp-section-gap">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="content text-center">
+          <h2>
+            This is an important port of call in the Pacific, where all the mail-steamers, and those carrying travellers between
+            North
+          </h2>
+
+          <p>
+            Check out our most recent project we’ve completed
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- end section two -->
+<div class="home-portfolio rp-section-gap">
+  <div class="container">
+    <div class="row">
+      {% for portfolio in (1..6) %}
+      {{forloop.index % 3 }} HE
+      {% if forloop.index % 3 == 0 && forloop.index=0 %}
+    </div><div class="row">
+    {% endif %}
+    <div class="col-md-4">
+      <div class="portfolio-section">
+        <div class="portfolio-image">
+          <ul class="portfolio-image-slider">
+            {% for image in (1..10) %}
+            <li>
+              <img class="img-responsive" src="images/0{{ forloop.index % 5)+1%}}.jpg">
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="portfolio-text">
+          <h3>It is situated in the bay</h3>
+          <p></p>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  </div>
+</div>
+
+<!-- Home Client Section -->
+<div class="home-client-section rp-section-gap">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class=" text-center">
+          <h3>
+            What our Clients Say
+          </h3>
+          <blockquote>
+            It is situated in the bay of Yeddo, and at but a short distance from that second capital of the Japanese Empire, and
+            the residence of the Tycoon, the civil Emperor, before the Mikado, the spiritual Emperor, absorbed
+          </blockquote>
+          <cite>
+            <a class="link" href="#">
+              CENTY ADMIN
+            </a>
+          </cite>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end home client section -->
+
+<!-- Home highlight section -->
+<div class="home-highlight rp-section-gap">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="highlight">
+          <div class="container text-center">
+            <button type="button" class="btn btn-default request-btn"> REQUEST A QUOTE</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- end home highlight section -->
+
+
