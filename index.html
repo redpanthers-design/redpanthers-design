@@ -55,8 +55,8 @@ title: Design @ Redpanthers
   <div class="container">
     <div class="row">
       {% for portfolio in (1..6) %}
-      {{forloop.index % 3 }} HE
-      {% if forloop.index % 3 == 0 && forloop.index=0 %}
+      {% capture modulo %} {{forloop.index | mod:3}} {% endcapture %}
+      {% if modulo == '0' and  forloop.index==0 %}
     </div><div class="row">
     {% endif %}
     <div class="col-md-4">
@@ -65,7 +65,7 @@ title: Design @ Redpanthers
           <ul class="portfolio-image-slider">
             {% for image in (1..10) %}
             <li>
-              <img class="img-responsive" src="images/0{{ forloop.index % 5)+1%}}.jpg">
+              <img class="img-responsive" src="images/0{{ forloop.index |mod:5)+1%}}.jpg">
             </li>
             {% endfor %}
           </ul>

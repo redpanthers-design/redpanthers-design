@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/redpanthers-design/designs-redpanthers.github.io#readme",
   "dependencies": {
+    "font-awesome": "^4.7.0",
     "slick-carousel": "^1.6.0"
   }
 }
