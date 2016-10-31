@@ -1,17 +1,23 @@
 $slick-font-path:'../fonts/';
 
 @charset "utf-8";
-@import "normalize";
+@import "reset";
+
 @import "../node_modules/slick-carousel/slick/slick";
 @import "../node_modules/slick-carousel/slick/slick-theme";
 @import "../node_modules/font-awesome/scss/font-awesome";
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,600i,800');
+@import "normalize";
+
+
 @import "animation";
 @import "grid";
-@import "reset";
+
 @import "revolution";
 @import "switcher";
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,600i,800');
+
 @import "common/common";
 
 html, body {
