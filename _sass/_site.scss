@@ -3,9 +3,9 @@ $slick-font-path:'../fonts/';
 @charset "utf-8";
 @import "reset";
 
-@import "../node_modules/slick-carousel/slick/slick";
-@import "../node_modules/slick-carousel/slick/slick-theme";
-@import "../node_modules/font-awesome/scss/font-awesome";
+@import "./slick-carousel/slick/slick";
+@import "./slick-carousel/slick/slick-theme";
+@import "./font-awesome/font-awesome";
 
 @import "normalize";
 
