@@ -1,4 +1,4 @@
 method: git 
 site_dir: _site 
-git_url: git@github.com:redpanthers-design/redpanthers-design.git
+git_url: git@github.com:redpanthers-design/redpanthers-design.github.io.git
 git_branch: gh-pages
