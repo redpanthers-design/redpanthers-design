@@ -1,0 +1,23 @@
+{
+  "name": "designs-redpanthers.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redpanthers-design/designs-redpanthers.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redpanthers-design/designs-redpanthers.github.io/issues"
+  },
+  "homepage": "https://github.com/redpanthers-design/designs-redpanthers.github.io#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "slick-carousel": "^1.6.0"
+  }
+}
