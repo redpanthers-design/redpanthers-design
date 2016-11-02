@@ -2579,3 +2579,15 @@ html, body { font-family: 'Open Sans', sans-serif; font-size: 14px; display: blo
 .clients .container .pics li { float: left; }
 
 /*======================END ABOUT PAGE============================*/
+.portfolio-single-wrapper { padding: 40px; background: #00c492; margin-bottom: 50px; }
+
+.portfolio-screen-shots { display: block; padding: 10px; background: #fff; -webkit-border-top-right-radius: 4px; -webkit-border-bottom-right-radius: 4px; -webkit-border-bottom-left-radius: 4px; -webkit-border-top-left-radius: 4px; -moz-border-radius-topright: 4px; -moz-border-radius-bottomright: 4px; -moz-border-radius-bottomleft: 4px; -moz-border-radius-topleft: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; border-top-left-radius: 4px; }
+.portfolio-screen-shots .each-single-image { position: relative; }
+.portfolio-screen-shots .each-single-image img { width: 100%; }
+.portfolio-screen-shots .each-single-image .contents { position: absolute; bottom: 0; left: 0; width: 100%; height: auto; }
+.portfolio-screen-shots .each-single-image .title { display: table; margin: 30px auto; padding: 15px; background: rgba(0, 0, 0, 0.5); color: #fff; -webkit-border-top-right-radius: 20px; -webkit-border-bottom-right-radius: 20px; -webkit-border-bottom-left-radius: 20px; -webkit-border-top-left-radius: 20px; -moz-border-radius-topright: 20px; -moz-border-radius-bottomright: 20px; -moz-border-radius-bottomleft: 20px; -moz-border-radius-topleft: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 20px; border-bottom-left-radius: 20px; border-top-left-radius: 20px; text-shadow: 2px 2px 1px #333; }
+
+.portfolio-content { display: block; margin-bottom: 60px; }
+.portfolio-content .inner-content-section { font-size: 16px; line-height: 24px; color: #999; }
+.portfolio-content .inner-content-section p { margin-bottom: 20px; }
+.portfolio-content .inner-content-development .list-group .list-group-item a { font-size: 16px; color: #00c492; font-weight: bold; letter-spacing: 1.2px; text-shadow: 0 1px 1px #444; }

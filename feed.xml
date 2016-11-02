@@ -6,35 +6,116 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Nov 2016 15:17:42 +0530</pubDate>
-    <lastBuildDate>Wed, 02 Nov 2016 15:17:42 +0530</lastBuildDate>
+    <pubDate>Wed, 02 Nov 2016 16:59:23 +0530</pubDate>
+    <lastBuildDate>Wed, 02 Nov 2016 16:59:23 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+        <title>Rails Websites</title>
+        <description></description>
+        <pubDate>Wed, 02 Nov 2016 00:00:00 +0530</pubDate>
+        <link>/2016/11/02/rails-websites.html</link>
+        <guid isPermaLink="true">/2016/11/02/rails-websites.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Wordpress Max_mohr</title>
+        <description></description>
+        <pubDate>Wed, 26 Oct 2016 00:00:00 +0530</pubDate>
+        <link>/2016/10/26/wordpress-max_mohr.html</link>
+        <guid isPermaLink="true">/2016/10/26/wordpress-max_mohr.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Group Consulting - Wordpress Template</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xs-12&quot;&gt;
+      &lt;div class=&quot;page-header&quot;&gt;
+        &lt;h3&gt;Group Consulting - Wordpress Template&lt;/h3&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-single-wrapper&quot;&gt;
+        &lt;div class=&quot;portfolio-screen-shots&quot;&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;images/wordpress/0/layout-home.jpg&quot; alt=&quot;Home Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;images/wordpress/0/layout-blog.jpg&quot; alt=&quot;Blog Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Blog Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;images/wordpress/0/layout-single.jpg&quot; alt=&quot;Single Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Single Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-content&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;
+            &lt;div class=&quot;inner-content-development&quot;&gt;
+            &lt;h4&gt;Technologies&lt;/h4&gt;
+            &lt;ul class=&quot;list-group&quot;&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                Gulp
+              &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                Live reload
+              &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                NPM
+              &lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;h4&gt;Frameworks/Plugins&lt;/h4&gt;
+            &lt;ul class=&quot;list-group&quot;&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Bootstrap 3.7&lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;WordPress 4.X &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Slick Carousel &lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;
+            &lt;div class=&quot;inner-content-section&quot;&gt;
+              &lt;p&gt;
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab architecto aspernatur debitis ducimus est eum harum hic impedit incidunt iste laudantium libero maxime minima nesciunt quisquam, quos rerum saepe veniam.
+              &lt;/p&gt;
+              &lt;p&gt;
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores atque culpa dolor, dolore expedita explicabo iste labore magni placeat tenetur unde voluptate? Dolore, ratione totam. Excepturi nostrum quasi qui sint?
+              &lt;/p&gt;
+            &lt;/div&gt;
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
 </description>
         <pubDate>Mon, 24 Oct 2016 08:47:24 +0530</pubDate>
-        <link>/jekyll/update/2016/10/24/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">/jekyll/update/2016/10/24/welcome-to-jekyll.html</guid>
+        <link>/wordpress-group-consulting.html</link>
+        <guid isPermaLink="true">/wordpress-group-consulting.html</guid>
         
         
-        <category>jekyll</category>
+        <category>Wordpress</category>
         
-        <category>update</category>
+        <category>Website</category>
+        
+        <category>Designs</category>
         
       </item>
     
