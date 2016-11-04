@@ -8,4 +8,14 @@ $(document).ready(function(){
     slidesToScroll:1,
     infinite:true
   })
+
+  var portfolioPageSlider = $('.portfolio-screen-shots');
+  if(portfolioPageSlider.length > 0){
+    portfolioPageSlider.slick({
+      slidesToShow:1,
+      slidesToScroll:1,
+      infinite:true,
+      arrows: true
+    })
+  }
 });
