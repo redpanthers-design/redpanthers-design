@@ -1,0 +1,78 @@
+---
+layout: home
+title:  "Pekoda - Middleman website"
+date:   2016-10-24 08:47:24 +0530
+categories: middleman 
+permalink: "pekoda-middleman.html"
+images: 
+  - path: "/images/wordpress/5/pekoda-home.jpg"
+    thumb: "/images/wordpress/5/thumb-home.jpg"
+    title: "Home Page"
+  - path: "/images/wordpress/5/pekoda-search.jpg"
+    title: "Home Page"
+  - path: "/images/wordpress/5/pekoda-service.jpg"
+    title: "Home Page"
+  - path: "/images/wordpress/5/pekoda-user.jpg"
+    title: "Home Page"
+paginate: true 
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <div class="page-header">
+        <h3>{{page.title}}</h3>
+      </div>
+      <div class="portfolio-single-wrapper">
+        <div class="portfolio-screen-shots">
+          {% for image in page.images %}
+          <div class="each-single-image">
+            <img src="{{image.path}}" alt="{{image.title}}">
+            <div class="contents">
+            <h5 class="title">{{image.title}}</h5>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="portfolio-content">
+        <div class="row">
+          <div class="col-xs-12 col-sm-4">
+            <div class="inner-content-development">
+            <h4>Technologies</h4>
+            <ul class="list-group">
+              <li class="list-group-item"><a href="">
+                Gulp
+              </a></li>
+              <li class="list-group-item"><a href="">
+                Live reload
+              </a></li>
+              <li class="list-group-item"><a href="">
+                NPM
+              </a></li>
+            </ul>
+            <h4>Frameworks/Plugins</h4>
+            <ul class="list-group">
+              <li class="list-group-item"><a href="">Bootstrap 3.7</a></li>
+              <li class="list-group-item"><a href="">WordPress 4.X </a></li>
+              <li class="list-group-item"><a href="">Slick Carousel </a></li>
+            </ul>
+            </div>
+          </div>
+          <div class="col-xs-12 col-sm-8">
+            <div class="inner-content-section">
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab architecto aspernatur debitis ducimus est eum harum hic impedit incidunt iste laudantium libero maxime minima nesciunt quisquam, quos rerum saepe veniam.
+              </p>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores atque culpa dolor, dolore expedita explicabo iste labore magni placeat tenetur unde voluptate? Dolore, ratione totam. Excepturi nostrum quasi qui sint?
+              </p>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
