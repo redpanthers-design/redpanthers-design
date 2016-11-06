@@ -1,0 +1,79 @@
+---
+layout: home
+title:  "Cardio Vita - Wordpress Template"
+date:   2016-10-24 08:47:24 +0530
+categories: "wordpress" 
+permalink: "wordpress-cardio-vita.html"
+images: 
+  - path: "/images/wordpress/1/doctor-home.jpg"
+    thumb: "/images/wordpress/1/thumb-home.jpg"
+    title: "Home Page"
+  - path: "/images/wordpress/1/doctor-index.jpg"
+    title: "Blog Page"
+  - path: "/images/wordpress/1/doctor-single.jpg"
+    title: "Single Page"
+paginate: true 
+show_on_home: false 
+---
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <div class="page-header">
+        <h3>{{page.title}}</h3>
+      </div>
+      <div class="portfolio-single-wrapper">
+        <div class="portfolio-screen-shots">
+          {% for image in page.images %}
+          <div class="each-single-image">
+            <img src="{{image.path}}" alt="{{image.title}}">
+            <div class="contents">
+            <h5 class="title">{{image.title}}</h5>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="portfolio-content">
+        <div class="row">
+          <div class="col-xs-12 col-sm-4">
+            <div class="inner-content-development">
+            <h4>Technologies</h4>
+            <ul class="list-group">
+              <li class="list-group-item"><a href="">
+                Gulp
+              </a></li>
+              <li class="list-group-item"><a href="">
+                Live reload
+              </a></li>
+              <li class="list-group-item"><a href="">
+                NPM
+              </a></li>
+            </ul>
+            <h4>Frameworks/Plugins</h4>
+            <ul class="list-group">
+              <li class="list-group-item"><a href="">Bootstrap 4</a></li>
+              <li class="list-group-item"><a href="">WordPress 4.X </a></li>
+              <li class="list-group-item"><a href="">Slick Carousel </a></li>
+            </ul>
+            </div>
+          </div>
+          <div class="col-xs-12 col-sm-8">
+            <div class="inner-content-section">
+             <p>
+               Cardio Vita is a Wordpress 4.6+ website, designed and developed for our Brazilian client. This website contain 1 custom wordpress post and a 
+               custom landing page. 
+             </p>
+             <p>
+               Website use Bootstrap 4, Jquery and Slick carousel. We use modern <b>gulp</b> as automation tool and <b>NPM</b> as package manager. Website completed
+               within 2 days withour 3 frontend deveopers. 
+             </p>
+
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
