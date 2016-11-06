@@ -122,6 +122,8 @@ GEM
       jekyll (~> 3.0)
     octopress-hooks (2.6.2)
       jekyll (>= 2.0)
+    octopress-paginate (1.2.0)
+      octopress-hooks
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (1.5.3)
@@ -150,8 +152,10 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-paginate
   minima
   octopress (~> 3.0)
+  octopress-paginate
 
 BUNDLED WITH
    1.13.4

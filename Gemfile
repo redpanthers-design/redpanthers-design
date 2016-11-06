@@ -23,4 +23,6 @@ gem "github-pages", group: :jekyll_plugins
 #   gem "jekyll-github-metadata", "~> 1.0"
 
     gem 'octopress', '~> 3.0'
+    gem 'octopress-paginate'
+    gem 'jekyll-paginate'
  end

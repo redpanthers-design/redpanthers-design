@@ -6,27 +6,571 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Nov 2016 17:03:45 +0530</pubDate>
-    <lastBuildDate>Wed, 02 Nov 2016 17:03:45 +0530</lastBuildDate>
+    <pubDate>Sun, 06 Nov 2016 11:36:46 +0530</pubDate>
+    <lastBuildDate>Sun, 06 Nov 2016 11:36:46 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Rails Websites</title>
-        <description></description>
-        <pubDate>Wed, 02 Nov 2016 00:00:00 +0530</pubDate>
-        <link>/2016/11/02/rails-websites.html</link>
-        <guid isPermaLink="true">/2016/11/02/rails-websites.html</guid>
+        <title>The City - Wordpress Template</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xs-12&quot;&gt;
+      &lt;div class=&quot;page-header&quot;&gt;
+        &lt;h3&gt;The City - Wordpress Template&lt;/h3&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-single-wrapper&quot;&gt;
+        &lt;div class=&quot;portfolio-screen-shots&quot;&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/4/valeda-home-home.jpg&quot; alt=&quot;Home Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/4/valeda-post.jpg&quot; alt=&quot;Blog Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Blog Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/4/valeda-atractive.jpg&quot; alt=&quot;Single Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Single Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/4/valeda-cervejaria.jpg&quot; alt=&quot;Single Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Single Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/4/valeda-estabelci.jpg&quot; alt=&quot;Single Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Single Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-content&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;
+            &lt;div class=&quot;inner-content-development&quot;&gt;
+            &lt;h4&gt;Technologies&lt;/h4&gt;
+            &lt;ul class=&quot;list-group&quot;&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                Gulp
+              &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                Live reload
+              &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                NPM
+              &lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;h4&gt;Frameworks/Plugins&lt;/h4&gt;
+            &lt;ul class=&quot;list-group&quot;&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Bootstrap 3.7&lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;WordPress 4.X &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Slick Carousel &lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;
+            &lt;div class=&quot;inner-content-section&quot;&gt;
+              &lt;p&gt;
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab architecto aspernatur debitis ducimus est eum harum hic impedit incidunt iste laudantium libero maxime minima nesciunt quisquam, quos rerum saepe veniam.
+              &lt;/p&gt;
+              &lt;p&gt;
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores atque culpa dolor, dolore expedita explicabo iste labore magni placeat tenetur unde voluptate? Dolore, ratione totam. Excepturi nostrum quasi qui sint?
+              &lt;/p&gt;
+            &lt;/div&gt;
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 24 Oct 2016 08:47:24 +0530</pubDate>
+        <link>/wordpress-the-city.html</link>
+        <guid isPermaLink="true">/wordpress-the-city.html</guid>
         
+        
+        <category>wordpress</category>
         
       </item>
     
       <item>
-        <title>Wordpress Max_mohr</title>
-        <description></description>
-        <pubDate>Wed, 26 Oct 2016 00:00:00 +0530</pubDate>
-        <link>/2016/10/26/wordpress-max_mohr.html</link>
-        <guid isPermaLink="true">/2016/10/26/wordpress-max_mohr.html</guid>
+        <title>Pekoda - Middleman website</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xs-12&quot;&gt;
+      &lt;div class=&quot;page-header&quot;&gt;
+        &lt;h3&gt;Pekoda - Middleman website&lt;/h3&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-single-wrapper&quot;&gt;
+        &lt;div class=&quot;portfolio-screen-shots&quot;&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/5/pekoda-home.jpg&quot; alt=&quot;Home Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/5/pekoda-search.jpg&quot; alt=&quot;Home Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/5/pekoda-service.jpg&quot; alt=&quot;Home Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/5/pekoda-user.jpg&quot; alt=&quot;Home Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-content&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;
+            &lt;div class=&quot;inner-content-development&quot;&gt;
+            &lt;h4&gt;Technologies&lt;/h4&gt;
+            &lt;ul class=&quot;list-group&quot;&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                Gulp
+              &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                Live reload
+              &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                NPM
+              &lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;h4&gt;Frameworks/Plugins&lt;/h4&gt;
+            &lt;ul class=&quot;list-group&quot;&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Bootstrap 3.7&lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;WordPress 4.X &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Slick Carousel &lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;
+            &lt;div class=&quot;inner-content-section&quot;&gt;
+              &lt;p&gt;
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab architecto aspernatur debitis ducimus est eum harum hic impedit incidunt iste laudantium libero maxime minima nesciunt quisquam, quos rerum saepe veniam.
+              &lt;/p&gt;
+              &lt;p&gt;
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores atque culpa dolor, dolore expedita explicabo iste labore magni placeat tenetur unde voluptate? Dolore, ratione totam. Excepturi nostrum quasi qui sint?
+              &lt;/p&gt;
+            &lt;/div&gt;
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 24 Oct 2016 08:47:24 +0530</pubDate>
+        <link>/pekoda-middleman.html</link>
+        <guid isPermaLink="true">/pekoda-middleman.html</guid>
         
+        
+        <category>middleman</category>
+        
+      </item>
+    
+      <item>
+        <title>Job Search - Laravel Template</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xs-12&quot;&gt;
+      &lt;div class=&quot;page-header&quot;&gt;
+        &lt;h3&gt;Job Search - Laravel Template&lt;/h3&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-single-wrapper&quot;&gt;
+        &lt;div class=&quot;portfolio-screen-shots&quot;&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/3/accelaar-home.jpg&quot; alt=&quot;Home Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/3/accelaar-dashboard-0.jpg&quot; alt=&quot;Company Dashboard&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Company Dashboard&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/3/accelaar-dashboard-1.jpg&quot; alt=&quot;User Dashboard&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;User Dashboard&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/3/accelaar-admin.jpg&quot; alt=&quot;Admin Dashboard&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Admin Dashboard&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-content&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;
+            &lt;div class=&quot;inner-content-development&quot;&gt;
+            &lt;h4&gt;Technologies&lt;/h4&gt;
+            &lt;ul class=&quot;list-group&quot;&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                Gulp
+              &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                Live reload
+              &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                NPM
+              &lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;h4&gt;Frameworks/Plugins&lt;/h4&gt;
+            &lt;ul class=&quot;list-group&quot;&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Bootstrap 3.7&lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;WordPress 4.X &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Slick Carousel &lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;
+            &lt;div class=&quot;inner-content-section&quot;&gt;
+              &lt;p&gt;
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab architecto aspernatur debitis ducimus est eum harum hic impedit incidunt iste laudantium libero maxime minima nesciunt quisquam, quos rerum saepe veniam.
+              &lt;/p&gt;
+              &lt;p&gt;
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores atque culpa dolor, dolore expedita explicabo iste labore magni placeat tenetur unde voluptate? Dolore, ratione totam. Excepturi nostrum quasi qui sint?
+              &lt;/p&gt;
+            &lt;/div&gt;
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 24 Oct 2016 08:47:24 +0530</pubDate>
+        <link>/job-search-laravel.html</link>
+        <guid isPermaLink="true">/job-search-laravel.html</guid>
+        
+        
+        <category>laravel</category>
+        
+      </item>
+    
+      <item>
+        <title>Job Search - Laravel Template</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xs-12&quot;&gt;
+      &lt;div class=&quot;page-header&quot;&gt;
+        &lt;h3&gt;Job Search - Laravel Template&lt;/h3&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-single-wrapper&quot;&gt;
+        &lt;div class=&quot;portfolio-screen-shots&quot;&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/3/accelaar-home.jpg&quot; alt=&quot;Home Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/3/accelaar-dashboard-0.jpg&quot; alt=&quot;Company Dashboard&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Company Dashboard&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/3/accelaar-dashboard-1.jpg&quot; alt=&quot;User Dashboard&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;User Dashboard&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/3/accelaar-admin.jpg&quot; alt=&quot;Admin Dashboard&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Admin Dashboard&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-content&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;
+            &lt;div class=&quot;inner-content-development&quot;&gt;
+            &lt;h4&gt;Technologies&lt;/h4&gt;
+            &lt;ul class=&quot;list-group&quot;&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                Gulp
+              &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                Live reload
+              &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                NPM
+              &lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;h4&gt;Frameworks/Plugins&lt;/h4&gt;
+            &lt;ul class=&quot;list-group&quot;&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Bootstrap 3.7&lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;WordPress 4.X &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Slick Carousel &lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;
+            &lt;div class=&quot;inner-content-section&quot;&gt;
+              &lt;p&gt;
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab architecto aspernatur debitis ducimus est eum harum hic impedit incidunt iste laudantium libero maxime minima nesciunt quisquam, quos rerum saepe veniam.
+              &lt;/p&gt;
+              &lt;p&gt;
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores atque culpa dolor, dolore expedita explicabo iste labore magni placeat tenetur unde voluptate? Dolore, ratione totam. Excepturi nostrum quasi qui sint?
+              &lt;/p&gt;
+            &lt;/div&gt;
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 24 Oct 2016 08:47:24 +0530</pubDate>
+        <link>/job-search-laravel.html</link>
+        <guid isPermaLink="true">/job-search-laravel.html</guid>
+        
+        
+        <category>laravel</category>
+        
+      </item>
+    
+      <item>
+        <title>Sharing Party - Ruby On Rails website</title>
+        <description></description>
+        <pubDate>Mon, 24 Oct 2016 08:47:24 +0530</pubDate>
+        <link>/sharing-party-ruby-on-rails.html</link>
+        <guid isPermaLink="true">/sharing-party-ruby-on-rails.html</guid>
+        
+        
+        <category>middleman</category>
+        
+      </item>
+    
+      <item>
+        <title>Pekoda - Middleman website</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xs-12&quot;&gt;
+      &lt;div class=&quot;page-header&quot;&gt;
+        &lt;h3&gt;Pekoda - Middleman website&lt;/h3&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-single-wrapper&quot;&gt;
+        &lt;div class=&quot;portfolio-screen-shots&quot;&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/5/pekoda-home.jpg&quot; alt=&quot;Home Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/5/pekoda-search.jpg&quot; alt=&quot;Home Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/5/pekoda-service.jpg&quot; alt=&quot;Home Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/5/pekoda-user.jpg&quot; alt=&quot;Home Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-content&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;
+            &lt;div class=&quot;inner-content-development&quot;&gt;
+            &lt;h4&gt;Technologies&lt;/h4&gt;
+            &lt;ul class=&quot;list-group&quot;&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                Gulp
+              &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                Live reload
+              &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                NPM
+              &lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;h4&gt;Frameworks/Plugins&lt;/h4&gt;
+            &lt;ul class=&quot;list-group&quot;&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Bootstrap 3.7&lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;WordPress 4.X &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Slick Carousel &lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;
+            &lt;div class=&quot;inner-content-section&quot;&gt;
+              &lt;p&gt;
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab architecto aspernatur debitis ducimus est eum harum hic impedit incidunt iste laudantium libero maxime minima nesciunt quisquam, quos rerum saepe veniam.
+              &lt;/p&gt;
+              &lt;p&gt;
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores atque culpa dolor, dolore expedita explicabo iste labore magni placeat tenetur unde voluptate? Dolore, ratione totam. Excepturi nostrum quasi qui sint?
+              &lt;/p&gt;
+            &lt;/div&gt;
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 24 Oct 2016 08:47:24 +0530</pubDate>
+        <link>/pekoda-middleman.html</link>
+        <guid isPermaLink="true">/pekoda-middleman.html</guid>
+        
+        
+        <category>middleman</category>
+        
+      </item>
+    
+      <item>
+        <title>Max Mohr - Wordpress Template</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xs-12&quot;&gt;
+      &lt;div class=&quot;page-header&quot;&gt;
+        &lt;h3&gt;Max Mohr - Wordpress Template&lt;/h3&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-single-wrapper&quot;&gt;
+        &lt;div class=&quot;portfolio-screen-shots&quot;&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/2/max-mohr-home.jpg&quot; alt=&quot;Home Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/2/max-mohr-service.jpg&quot; alt=&quot;Blog Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Blog Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/2/max-mohr-single.jpg&quot; alt=&quot;Single Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Single Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-content&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;
+            &lt;div class=&quot;inner-content-development&quot;&gt;
+            &lt;h4&gt;Technologies&lt;/h4&gt;
+            &lt;ul class=&quot;list-group&quot;&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                Gulp
+              &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                Live reload
+              &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                NPM
+              &lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;h4&gt;Frameworks/Plugins&lt;/h4&gt;
+            &lt;ul class=&quot;list-group&quot;&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Bootstrap 3.7&lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;WordPress 4.X &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Slick Carousel &lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;
+            &lt;div class=&quot;inner-content-section&quot;&gt;
+              &lt;p&gt;
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab architecto aspernatur debitis ducimus est eum harum hic impedit incidunt iste laudantium libero maxime minima nesciunt quisquam, quos rerum saepe veniam.
+              &lt;/p&gt;
+              &lt;p&gt;
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores atque culpa dolor, dolore expedita explicabo iste labore magni placeat tenetur unde voluptate? Dolore, ratione totam. Excepturi nostrum quasi qui sint?
+              &lt;/p&gt;
+            &lt;/div&gt;
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 24 Oct 2016 08:47:24 +0530</pubDate>
+        <link>/wordpress-max-mohr.html</link>
+        <guid isPermaLink="true">/wordpress-max-mohr.html</guid>
+        
+        
+        <category>wordpress</category>
         
       </item>
     
@@ -42,21 +586,21 @@
         &lt;div class=&quot;portfolio-screen-shots&quot;&gt;
           
           &lt;div class=&quot;each-single-image&quot;&gt;
-            &lt;img src=&quot;images/wordpress/0/layout-home.jpg&quot; alt=&quot;Home Page&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/0/layout-home.jpg&quot; alt=&quot;Home Page&quot;&gt;
             &lt;div class=&quot;contents&quot;&gt;
             &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
             &lt;/div&gt;
           &lt;/div&gt;
           
           &lt;div class=&quot;each-single-image&quot;&gt;
-            &lt;img src=&quot;images/wordpress/0/layout-blog.jpg&quot; alt=&quot;Blog Page&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/0/layout-blog.jpg&quot; alt=&quot;Blog Page&quot;&gt;
             &lt;div class=&quot;contents&quot;&gt;
             &lt;h5 class=&quot;title&quot;&gt;Blog Page&lt;/h5&gt;
             &lt;/div&gt;
           &lt;/div&gt;
           
           &lt;div class=&quot;each-single-image&quot;&gt;
-            &lt;img src=&quot;images/wordpress/0/layout-single.jpg&quot; alt=&quot;Single Page&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/0/layout-single.jpg&quot; alt=&quot;Single Page&quot;&gt;
             &lt;div class=&quot;contents&quot;&gt;
             &lt;h5 class=&quot;title&quot;&gt;Single Page&lt;/h5&gt;
             &lt;/div&gt;
@@ -111,11 +655,7 @@
         <guid isPermaLink="true">/wordpress-group-consulting.html</guid>
         
         
-        <category>Wordpress</category>
-        
-        <category>Website</category>
-        
-        <category>Designs</category>
+        <category>wordpress</category>
         
       </item>
     
