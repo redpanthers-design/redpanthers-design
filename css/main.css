@@ -2582,6 +2582,11 @@ html, body { font-family: 'Open Sans', sans-serif; font-size: 14px; display: blo
 .clients .container .pics li { float: left; }
 
 /*======================END ABOUT PAGE============================*/
+.feedback-sliders .customer-feedbacks { margin-bottom: 15px; }
+
+.portfolio-more { padding: 12px 48px; border-color: #00c492 !important; color: #ffffff; background-color: #00c492; font-size: 15px; }
+.portfolio-more:hover, .portfolio-more:active, .portfolio-more:focus { border-color: #555555 !important; color: #ffffff; background-color: #555555; }
+
 .portfolio-single-wrapper { padding: 40px; background: #00c492; margin-bottom: 50px; }
 
 .portfolio-screen-shots { display: block; padding: 10px; background: #fff; -webkit-border-top-right-radius: 4px; -webkit-border-bottom-right-radius: 4px; -webkit-border-bottom-left-radius: 4px; -webkit-border-top-left-radius: 4px; -moz-border-radius-topright: 4px; -moz-border-radius-bottomright: 4px; -moz-border-radius-bottomleft: 4px; -moz-border-radius-topleft: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; border-top-left-radius: 4px; }
@@ -2594,3 +2599,10 @@ html, body { font-family: 'Open Sans', sans-serif; font-size: 14px; display: blo
 .portfolio-content .inner-content-section { font-size: 16px; line-height: 24px; color: #999; }
 .portfolio-content .inner-content-section p { margin-bottom: 20px; }
 .portfolio-content .inner-content-development .list-group .list-group-item a { font-size: 16px; color: #00c492; font-weight: bold; letter-spacing: 1.2px; text-decoration: none; }
+
+/* Pagination section */
+.pagination-section ul.pagination { display: table; margin-left: auto; margin-right: auto; }
+.pagination-section ul.pagination li a { color: #00c492; }
+.pagination-section ul.pagination li.active a { background: #00c492; border-color: #00c492; color: #fff; }
+
+/* end pagination section */

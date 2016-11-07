@@ -6,9 +6,97 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Nov 2016 11:37:41 +0530</pubDate>
-    <lastBuildDate>Sun, 06 Nov 2016 11:37:41 +0530</lastBuildDate>
+    <pubDate>Mon, 07 Nov 2016 09:10:28 +0530</pubDate>
+    <lastBuildDate>Mon, 07 Nov 2016 09:10:28 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Cardio Vita - Wordpress Template</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xs-12&quot;&gt;
+      &lt;div class=&quot;page-header&quot;&gt;
+        &lt;h3&gt;Cardio Vita - Wordpress Template&lt;/h3&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-single-wrapper&quot;&gt;
+        &lt;div class=&quot;portfolio-screen-shots&quot;&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/1/doctor-home.jpg&quot; alt=&quot;Home Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/1/doctor-index.jpg&quot; alt=&quot;Blog Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Blog Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/1/doctor-single.jpg&quot; alt=&quot;Single Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Single Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-content&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;
+            &lt;div class=&quot;inner-content-development&quot;&gt;
+            &lt;h4&gt;Technologies&lt;/h4&gt;
+            &lt;ul class=&quot;list-group&quot;&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                Gulp
+              &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                Live reload
+              &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                NPM
+              &lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;h4&gt;Frameworks/Plugins&lt;/h4&gt;
+            &lt;ul class=&quot;list-group&quot;&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Bootstrap 4&lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;WordPress 4.X &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Slick Carousel &lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;
+            &lt;div class=&quot;inner-content-section&quot;&gt;
+             &lt;p&gt;
+               Cardio Vita is a Wordpress 4.6+ website, designed and developed for our Brazilian client. This website contain 1 custom wordpress post and a 
+               custom landing page. 
+             &lt;/p&gt;
+             &lt;p&gt;
+               Website use Bootstrap 4, Jquery and Slick carousel. We use modern &lt;b&gt;gulp&lt;/b&gt; as automation tool and &lt;b&gt;NPM&lt;/b&gt; as package manager. Website completed
+               within 2 days withour 3 frontend deveopers. 
+             &lt;/p&gt;
+
+            &lt;/div&gt;
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 24 Oct 2016 08:47:24 +0530</pubDate>
+        <link>/wordpress-cardio-vita.html</link>
+        <guid isPermaLink="true">/wordpress-cardio-vita.html</guid>
+        
+        
+        <category>wordpress</category>
+        
+      </item>
     
       <item>
         <title>The City - Wordpress Template</title>
@@ -22,7 +110,7 @@
         &lt;div class=&quot;portfolio-screen-shots&quot;&gt;
           
           &lt;div class=&quot;each-single-image&quot;&gt;
-            &lt;img src=&quot;/images/wordpress/4/valeda-home-home.jpg&quot; alt=&quot;Home Page&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/4/valeda-home.jpg&quot; alt=&quot;Home Page&quot;&gt;
             &lt;div class=&quot;contents&quot;&gt;
             &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
             &lt;/div&gt;
@@ -85,10 +173,8 @@
           &lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;
             &lt;div class=&quot;inner-content-section&quot;&gt;
               &lt;p&gt;
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab architecto aspernatur debitis ducimus est eum harum hic impedit incidunt iste laudantium libero maxime minima nesciunt quisquam, quos rerum saepe veniam.
-              &lt;/p&gt;
-              &lt;p&gt;
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores atque culpa dolor, dolore expedita explicabo iste labore magni placeat tenetur unde voluptate? Dolore, ratione totam. Excepturi nostrum quasi qui sint?
+                This a advanced Wordpress website with 5 and more custom posts, Custom categories, Custom taxonomies. Save and Edit taxonomies etc.
+                This website completed in one week with 2 developers. These website made by frontend developers in their free time along with main Projects.
               &lt;/p&gt;
             &lt;/div&gt;
             
@@ -177,10 +263,12 @@
           &lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;
             &lt;div class=&quot;inner-content-section&quot;&gt;
               &lt;p&gt;
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab architecto aspernatur debitis ducimus est eum harum hic impedit incidunt iste laudantium libero maxime minima nesciunt quisquam, quos rerum saepe veniam.
+                &lt;b&gt;Pekoda&lt;/b&gt; is a frontend only work. We use middleman to build static website. This website use Google map, Google place search and couple of 
+                  google location based APIs. Bootstrap 3.7 used as CSS framework.
+                
               &lt;/p&gt;
               &lt;p&gt;
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores atque culpa dolor, dolore expedita explicabo iste labore magni placeat tenetur unde voluptate? Dolore, ratione totam. Excepturi nostrum quasi qui sint?
+                This website made for our &lt;b&gt;Indian&lt;/b&gt; client.
               &lt;/p&gt;
             &lt;/div&gt;
             
@@ -198,98 +286,6 @@
         
         
         <category>middleman</category>
-        
-      </item>
-    
-      <item>
-        <title>Job Search - Laravel Template</title>
-        <description>&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-xs-12&quot;&gt;
-      &lt;div class=&quot;page-header&quot;&gt;
-        &lt;h3&gt;Job Search - Laravel Template&lt;/h3&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;portfolio-single-wrapper&quot;&gt;
-        &lt;div class=&quot;portfolio-screen-shots&quot;&gt;
-          
-          &lt;div class=&quot;each-single-image&quot;&gt;
-            &lt;img src=&quot;/images/wordpress/3/accelaar-home.jpg&quot; alt=&quot;Home Page&quot;&gt;
-            &lt;div class=&quot;contents&quot;&gt;
-            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-          
-          &lt;div class=&quot;each-single-image&quot;&gt;
-            &lt;img src=&quot;/images/wordpress/3/accelaar-dashboard-0.jpg&quot; alt=&quot;Company Dashboard&quot;&gt;
-            &lt;div class=&quot;contents&quot;&gt;
-            &lt;h5 class=&quot;title&quot;&gt;Company Dashboard&lt;/h5&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-          
-          &lt;div class=&quot;each-single-image&quot;&gt;
-            &lt;img src=&quot;/images/wordpress/3/accelaar-dashboard-1.jpg&quot; alt=&quot;User Dashboard&quot;&gt;
-            &lt;div class=&quot;contents&quot;&gt;
-            &lt;h5 class=&quot;title&quot;&gt;User Dashboard&lt;/h5&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-          
-          &lt;div class=&quot;each-single-image&quot;&gt;
-            &lt;img src=&quot;/images/wordpress/3/accelaar-admin.jpg&quot; alt=&quot;Admin Dashboard&quot;&gt;
-            &lt;div class=&quot;contents&quot;&gt;
-            &lt;h5 class=&quot;title&quot;&gt;Admin Dashboard&lt;/h5&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-          
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;portfolio-content&quot;&gt;
-        &lt;div class=&quot;row&quot;&gt;
-          &lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;
-            &lt;div class=&quot;inner-content-development&quot;&gt;
-            &lt;h4&gt;Technologies&lt;/h4&gt;
-            &lt;ul class=&quot;list-group&quot;&gt;
-              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
-                Gulp
-              &lt;/a&gt;&lt;/li&gt;
-              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
-                Live reload
-              &lt;/a&gt;&lt;/li&gt;
-              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
-                NPM
-              &lt;/a&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-            &lt;h4&gt;Frameworks/Plugins&lt;/h4&gt;
-            &lt;ul class=&quot;list-group&quot;&gt;
-              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Bootstrap 3.7&lt;/a&gt;&lt;/li&gt;
-              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;WordPress 4.X &lt;/a&gt;&lt;/li&gt;
-              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Slick Carousel &lt;/a&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;
-            &lt;div class=&quot;inner-content-section&quot;&gt;
-              &lt;p&gt;
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab architecto aspernatur debitis ducimus est eum harum hic impedit incidunt iste laudantium libero maxime minima nesciunt quisquam, quos rerum saepe veniam.
-              &lt;/p&gt;
-              &lt;p&gt;
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores atque culpa dolor, dolore expedita explicabo iste labore magni placeat tenetur unde voluptate? Dolore, ratione totam. Excepturi nostrum quasi qui sint?
-              &lt;/p&gt;
-            &lt;/div&gt;
-            
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Mon, 24 Oct 2016 08:47:24 +0530</pubDate>
-        <link>/job-search-laravel.html</link>
-        <guid isPermaLink="true">/job-search-laravel.html</guid>
-        
-        
-        <category>laravel</category>
         
       </item>
     
@@ -398,98 +394,6 @@
       </item>
     
       <item>
-        <title>Pekoda - Middleman website</title>
-        <description>&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-xs-12&quot;&gt;
-      &lt;div class=&quot;page-header&quot;&gt;
-        &lt;h3&gt;Pekoda - Middleman website&lt;/h3&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;portfolio-single-wrapper&quot;&gt;
-        &lt;div class=&quot;portfolio-screen-shots&quot;&gt;
-          
-          &lt;div class=&quot;each-single-image&quot;&gt;
-            &lt;img src=&quot;/images/wordpress/5/pekoda-home.jpg&quot; alt=&quot;Home Page&quot;&gt;
-            &lt;div class=&quot;contents&quot;&gt;
-            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-          
-          &lt;div class=&quot;each-single-image&quot;&gt;
-            &lt;img src=&quot;/images/wordpress/5/pekoda-search.jpg&quot; alt=&quot;Home Page&quot;&gt;
-            &lt;div class=&quot;contents&quot;&gt;
-            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-          
-          &lt;div class=&quot;each-single-image&quot;&gt;
-            &lt;img src=&quot;/images/wordpress/5/pekoda-service.jpg&quot; alt=&quot;Home Page&quot;&gt;
-            &lt;div class=&quot;contents&quot;&gt;
-            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-          
-          &lt;div class=&quot;each-single-image&quot;&gt;
-            &lt;img src=&quot;/images/wordpress/5/pekoda-user.jpg&quot; alt=&quot;Home Page&quot;&gt;
-            &lt;div class=&quot;contents&quot;&gt;
-            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-          
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;portfolio-content&quot;&gt;
-        &lt;div class=&quot;row&quot;&gt;
-          &lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;
-            &lt;div class=&quot;inner-content-development&quot;&gt;
-            &lt;h4&gt;Technologies&lt;/h4&gt;
-            &lt;ul class=&quot;list-group&quot;&gt;
-              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
-                Gulp
-              &lt;/a&gt;&lt;/li&gt;
-              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
-                Live reload
-              &lt;/a&gt;&lt;/li&gt;
-              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
-                NPM
-              &lt;/a&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-            &lt;h4&gt;Frameworks/Plugins&lt;/h4&gt;
-            &lt;ul class=&quot;list-group&quot;&gt;
-              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Bootstrap 3.7&lt;/a&gt;&lt;/li&gt;
-              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;WordPress 4.X &lt;/a&gt;&lt;/li&gt;
-              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Slick Carousel &lt;/a&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;
-            &lt;div class=&quot;inner-content-section&quot;&gt;
-              &lt;p&gt;
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab architecto aspernatur debitis ducimus est eum harum hic impedit incidunt iste laudantium libero maxime minima nesciunt quisquam, quos rerum saepe veniam.
-              &lt;/p&gt;
-              &lt;p&gt;
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores atque culpa dolor, dolore expedita explicabo iste labore magni placeat tenetur unde voluptate? Dolore, ratione totam. Excepturi nostrum quasi qui sint?
-              &lt;/p&gt;
-            &lt;/div&gt;
-            
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Mon, 24 Oct 2016 08:47:24 +0530</pubDate>
-        <link>/pekoda-middleman.html</link>
-        <guid isPermaLink="true">/pekoda-middleman.html</guid>
-        
-        
-        <category>middleman</category>
-        
-      </item>
-    
-      <item>
         <title>Max Mohr - Wordpress Template</title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;row&quot;&gt;
@@ -549,12 +453,15 @@
           &lt;/div&gt;
           &lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;
             &lt;div class=&quot;inner-content-section&quot;&gt;
-              &lt;p&gt;
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab architecto aspernatur debitis ducimus est eum harum hic impedit incidunt iste laudantium libero maxime minima nesciunt quisquam, quos rerum saepe veniam.
-              &lt;/p&gt;
-              &lt;p&gt;
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores atque culpa dolor, dolore expedita explicabo iste labore magni placeat tenetur unde voluptate? Dolore, ratione totam. Excepturi nostrum quasi qui sint?
-              &lt;/p&gt;
+             &lt;p&gt;
+               Max Mohr is a Wordpress 4.6+ website, designed and developed for our Brazilian client. This website contain 2-3 custom wordpress post and a 
+               custom landing page. 
+             &lt;/p&gt;
+             &lt;p&gt;
+               Website use Bootstrap 3.7, Jquery and Slick carousel. We use modern &lt;b&gt;gulp&lt;/b&gt; as automation tool and &lt;b&gt;NPM&lt;/b&gt; as package manager. Website completed
+               within 2 days withour 3 frontend deveopers. 
+             &lt;/p&gt;
+
             &lt;/div&gt;
             
           &lt;/div&gt;
@@ -635,10 +542,8 @@
           &lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;
             &lt;div class=&quot;inner-content-section&quot;&gt;
               &lt;p&gt;
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab architecto aspernatur debitis ducimus est eum harum hic impedit incidunt iste laudantium libero maxime minima nesciunt quisquam, quos rerum saepe veniam.
-              &lt;/p&gt;
-              &lt;p&gt;
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores atque culpa dolor, dolore expedita explicabo iste labore magni placeat tenetur unde voluptate? Dolore, ratione totam. Excepturi nostrum quasi qui sint?
+                This is our 4th Wordpress website with same Brazilian client. This website also done in &lt;b&gt;Bootstrap 3.7&lt;/b&gt; version. We made 
+                custom post type. Custom landing pages etc.
               &lt;/p&gt;
             &lt;/div&gt;
             
