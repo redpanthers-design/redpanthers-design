@@ -37,5 +37,5 @@ gems:
 #   per_page: 10
 #   title_suffix: " (page :num)"
 
-paginate: 3
+paginate: 6
 paginate_path: "/portfolio/page:num/"
