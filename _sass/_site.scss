@@ -1,4 +1,5 @@
 $slick-font-path:'../fonts/';
+$slick-loader-path:'../images/';
 
 @charset "utf-8";
 @import "reset";
@@ -212,16 +213,30 @@ html, body {
     .portfolio-text {
       padding: 16px;
       text-align: center;
+       min-height: 90px;
       h3 {
         margin: 0 0 10px;
         color: #333;
         font-size: 18px;
         line-height: 24px;
+       
+      }
+      a{
+        text-decoration: none;
+        color:#777;
+        display: block;
       }
       p {
         font-size: 14px;
         line-height: 18px;
         color: #666;
+      }
+      &:hover{ 
+        h3{
+          a{
+            color: #fff;
+          }
+        }
       }
     }
     &:hover {
@@ -229,6 +244,9 @@ html, body {
         background: #00c492;
         color: #fff;
         h3, p {
+          color: #fff;
+        }
+        a{
           color: #fff;
         }
       }
@@ -683,5 +701,22 @@ html, body {
 }
 
 /*======================END ABOUT PAGE============================*/
+.feedback-sliders{
+  .customer-feedbacks{
+    margin-bottom: 15px;
+  }
+}
 
+.portfolio-more{
+    padding: 12px 48px;
+    border-color: #00c492 !important;
+    color: #ffffff;
+    background-color: #00c492;
+    font-size: 15px;
+    &:hover,&:active,&:focus{
+      border-color: #555555 !important;
+      color: #ffffff;
+      background-color: #555555;
+    }
+}
 @import "portfolio";

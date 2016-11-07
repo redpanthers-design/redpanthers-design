@@ -1,6 +1,7 @@
----
-layout: home
-title: Design @ Redpanthers
+--- 
+layout: home 
+title: Home | Redpanther Designs 
+paginate: true 
 ---
 
 <div class="home-banner banner">
@@ -10,16 +11,13 @@ title: Design @ Redpanthers
         <div class="col-md-6">
           <div class="margin-bottom-10">
             <b>RedPanthers</b>,design studio
-            <br>
-            of Web Architects
+            <br> of Web Architects
           </div>
           <div class="centy margin-bottom-30">
 
-            Passepartout went timidly ashore on this so curious territory of<br>
-            the Sons of the Sun. He had nothing better to do than, taking<br>
-            chance for his guide, to wander aimlessly through the streets
+            Passepartout went timidly ashore on this so curious territory of<br> the Sons of the Sun. He had nothing better to do than, taking<br> chance for his guide, to wander aimlessly through the streets
           </div>
-          <button type="button" class="btn btn-default home-banner-button"> BUY IT NOW!</button>
+          <a href="http://redpanthers.co" target="_blank" class="btn btn-default home-banner-button"> Hire Us.</a>
         </div>
         <div class="col-md-6">
           <img class="img-responsive" src="images/iphone.png">
@@ -34,12 +32,7 @@ title: Design @ Redpanthers
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <div class="content text-center">
-          <h2>
-            This is an important port of call in the Pacific, where all the mail-steamers, and those carrying travellers between
-            North
-          </h2>
-
+        <div class="content text-center">        
           <p>
             Check out our most recent project we’ve completed
           </p>
@@ -49,35 +42,35 @@ title: Design @ Redpanthers
   </div>
 </div>
 
-
 <!-- end section two -->
 <div class="home-portfolio rp-section-gap">
   <div class="container">
     <div class="row">
-      {% for portfolio in (1..6) %}
-      {% capture modulo %} {{forloop.index | mod:3}} {% endcapture %}
-      {% if modulo == '0' and  forloop.index==0 %}
-    </div><div class="row">
-    {% endif %}
-    <div class="col-md-4">
-      <div class="portfolio-section">
-        <div class="portfolio-image">
-          <ul class="portfolio-image-slider">
-            {% for image in (1..10) %}
-            <li>
-              <img class="img-responsive" src="images/0{{ forloop.index |mod:5)+1%}}.jpg">
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-        <div class="portfolio-text">
-          <h3>It is situated in the bay</h3>
-          <p></p>
+      {% for post in site.posts %} {% if post.show_on_home %}
+      <div class="col-md-4">
+        <div class="portfolio-section">
+          <div class="portfolio-image">
+            <ul class="portfolio-image-slider">
+              {% for image in post.images %} {% if image.thumb %}
+              <li>
+                <img class="img-responsive" src="{{image.thumb | prepend:site.baseurl}}">
+              </li>
+              {% endif %} {% endfor %}
+            </ul>
+          </div>
+          <div class="portfolio-text">
+            <h3>{{post.title}}</h3>
+            <p></p>
+          </div>
         </div>
       </div>
+      {% endif %} {% endfor %}
     </div>
-    {% endfor %}
-  </div>
+    <div class="row">
+      <div class="col-xs-12 text-center">
+        <a href="/portfolio" class="btn btn-default portfolio-more">More</a>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -86,19 +79,58 @@ title: Design @ Redpanthers
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <div class=" text-center">
-          <h3>
-            What our Clients Say
-          </h3>
-          <blockquote>
-            It is situated in the bay of Yeddo, and at but a short distance from that second capital of the Japanese Empire, and
-            the residence of the Tycoon, the civil Emperor, before the Mikado, the spiritual Emperor, absorbed
-          </blockquote>
-          <cite>
-            <a class="link" href="#">
-              CENTY ADMIN
-            </a>
-          </cite>
+        <div class="feedback-sliders">
+          <!-- Feedback One -->
+          <div class="customer-feedbacks">
+            <div class=" text-center">
+              <h3>
+                What our Clients Say
+              </h3>
+              <blockquote>
+                I recommend to everyone this great team, serious, kind, they have great respect for your privacy, always available. Great job guys I hope to collaborate with you again
+              </blockquote>
+              <cite>
+                <a class="link" href="#">
+                  Eaglepeace
+                </a>
+              </cite>
+            </div>
+          </div>
+          <!-- end feedback one -->
+          <!-- Feedback One -->
+          <div class="customer-feedbacks">
+            <div class=" text-center">
+              <h3>
+                What our Clients Say
+              </h3>
+              <blockquote>
+                “These guys are good at Ruby on Rails. They were able to complete the project in the given time and budget. I would definitely hire them again ”
+              </blockquote>
+              <cite>
+                <a class="link" href="#">
+                  sit557702f66d2cc 
+                </a>
+              </cite>
+            </div>
+          </div>
+          <!-- end feedback one -->
+          <!-- Feedback One -->
+          <div class="customer-feedbacks">
+            <div class=" text-center">
+              <h3>
+                What our Clients Say
+              </h3>
+              <blockquote>
+                “Amazing Work by RedPanthers! They are the best at what they do. Highly recommended. ”
+              </blockquote>
+              <cite>
+                <a class="link" href="#">
+                  JayAdk
+                </a>
+              </cite>
+            </div>
+          </div>
+          <!-- end feedback one -->
         </div>
       </div>
     </div>
@@ -122,5 +154,3 @@ title: Design @ Redpanthers
 </div>
 
 <!-- end home highlight section -->
-
-
