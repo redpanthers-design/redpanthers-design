@@ -6,9 +6,92 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Nov 2016 09:10:28 +0530</pubDate>
-    <lastBuildDate>Mon, 07 Nov 2016 09:10:28 +0530</lastBuildDate>
+    <pubDate>Mon, 28 Nov 2016 00:50:36 +0530</pubDate>
+    <lastBuildDate>Mon, 28 Nov 2016 00:50:36 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>INBRV - Wordpress Template</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xs-12&quot;&gt;
+      &lt;div class=&quot;page-header&quot;&gt;
+        &lt;h3&gt;INBRV - Wordpress Template&lt;/h3&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-single-wrapper&quot;&gt;
+        &lt;div class=&quot;portfolio-screen-shots&quot;&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/7/layout-home.jpg&quot; alt=&quot;Home Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/7/layout-blog.jpg&quot; alt=&quot;Blog Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Blog Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/7/layout-single.jpg&quot; alt=&quot;Single Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Single Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-content&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;
+            &lt;div class=&quot;inner-content-development&quot;&gt;
+            &lt;h4&gt;Technologies&lt;/h4&gt;
+            &lt;ul class=&quot;list-group&quot;&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                Gulp
+              &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                Live reload
+              &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                NPM
+              &lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;h4&gt;Frameworks/Plugins&lt;/h4&gt;
+            &lt;ul class=&quot;list-group&quot;&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Bootstrap 3.7&lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;WordPress 4.X &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Slick Carousel &lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;
+            &lt;div class=&quot;inner-content-section&quot;&gt;
+              &lt;p&gt;
+                This is our 4th Wordpress website with same Brazilian client. This website also done in &lt;b&gt;Bootstrap 3.7&lt;/b&gt; version. We made 
+                custom post type. Custom landing pages etc.
+              &lt;/p&gt;
+            &lt;/div&gt;
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Fri, 18 Nov 2016 08:47:24 +0530</pubDate>
+        <link>/wordpress-inbrv.html</link>
+        <guid isPermaLink="true">/wordpress-inbrv.html</guid>
+        
+        
+        <category>wordpress</category>
+        
+      </item>
     
       <item>
         <title>Cardio Vita - Wordpress Template</title>
@@ -290,12 +373,12 @@
       </item>
     
       <item>
-        <title>Job Search - Laravel Template</title>
+        <title>Job Search - Laravel Project</title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-xs-12&quot;&gt;
       &lt;div class=&quot;page-header&quot;&gt;
-        &lt;h3&gt;Job Search - Laravel Template&lt;/h3&gt;
+        &lt;h3&gt;Job Search - Laravel Project&lt;/h3&gt;
       &lt;/div&gt;
       &lt;div class=&quot;portfolio-single-wrapper&quot;&gt;
         &lt;div class=&quot;portfolio-screen-shots&quot;&gt;
@@ -349,7 +432,9 @@
             &lt;h4&gt;Frameworks/Plugins&lt;/h4&gt;
             &lt;ul class=&quot;list-group&quot;&gt;
               &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Bootstrap 3.7&lt;/a&gt;&lt;/li&gt;
-              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;WordPress 4.X &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Laravel 5.3 &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Angular JS 1.X &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Parseley JS &lt;/a&gt;&lt;/li&gt;
               &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Slick Carousel &lt;/a&gt;&lt;/li&gt;
             &lt;/ul&gt;
             &lt;/div&gt;
@@ -357,10 +442,29 @@
           &lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;
             &lt;div class=&quot;inner-content-section&quot;&gt;
               &lt;p&gt;
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab architecto aspernatur debitis ducimus est eum harum hic impedit incidunt iste laudantium libero maxime minima nesciunt quisquam, quos rerum saepe veniam.
+                Job Search / Accelar  Job/Internship search website using Laravel 5.3 and Angular JS. This website has three type of Users,
+                Students, Company and Admin. Student can create profile, add their details and Internship choice. Company
+                can add their requirements and internships options. Admin can see there internships and send
+                emails to students and companies.
               &lt;/p&gt;
               &lt;p&gt;
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores atque culpa dolor, dolore expedita explicabo iste labore magni placeat tenetur unde voluptate? Dolore, ratione totam. Excepturi nostrum quasi qui sint?
+                Admin dashboard built using Angular JS and UI Router. User and Front facing pages create using Bootstrap and use
+                Laravel blade template.
+              &lt;/p&gt;
+              &lt;p&gt;
+                Bootstrap, Slick Carousels, Parsley JS used for smooth User experience.
+              &lt;/p&gt;
+              &lt;p&gt;
+                MariaDB used as Database
+              &lt;/p&gt;
+              &lt;p&gt;
+                We use LAMP on Linux and XAMP on Windows
+              &lt;/p&gt;
+              &lt;p&gt;
+                Atom, Sublime, VSCode and PHPStorm used as Code Editors and IDE
+              &lt;/p&gt;
+              &lt;p&gt;
+                We took 1 Month to complete this Project.
               &lt;/p&gt;
             &lt;/div&gt;
             
@@ -383,7 +487,96 @@
     
       <item>
         <title>Sharing Party - Ruby On Rails website</title>
-        <description></description>
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xs-12&quot;&gt;
+      &lt;div class=&quot;page-header&quot;&gt;
+        &lt;h3&gt;Sharing Party - Ruby On Rails website&lt;/h3&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-single-wrapper&quot;&gt;
+        &lt;div class=&quot;portfolio-screen-shots&quot;&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/6/sharing-party-home.jpg&quot; alt=&quot;Home Page&quot;&gt;
+
+            &lt;div class=&quot;contents&quot;&gt;
+              &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/6/sharing-party-dashboard.jpg&quot; alt=&quot;Admin Dashboard&quot;&gt;
+
+            &lt;div class=&quot;contents&quot;&gt;
+              &lt;h5 class=&quot;title&quot;&gt;Admin Dashboard&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/6/sharing-party-nearby.jpg&quot; alt=&quot;Nearby Parties&quot;&gt;
+
+            &lt;div class=&quot;contents&quot;&gt;
+              &lt;h5 class=&quot;title&quot;&gt;Nearby Parties&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-content&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;
+            &lt;div class=&quot;inner-content-development&quot;&gt;
+              &lt;h4&gt;Technologies&lt;/h4&gt;
+              &lt;ul class=&quot;list-group&quot;&gt;
+                &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                  Gulp
+                &lt;/a&gt;&lt;/li&gt;
+                &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                  Live reload
+                &lt;/a&gt;&lt;/li&gt;
+                &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                  NPM
+                &lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;h4&gt;Frameworks/Plugins&lt;/h4&gt;
+              &lt;ul class=&quot;list-group&quot;&gt;
+                &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Bootstrap 3.7&lt;/a&gt;&lt;/li&gt;
+                &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Ruby On Rails 4.X&lt;/a&gt;&lt;/li&gt;
+                &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;OWL Carousel &lt;/a&gt;&lt;/li&gt;
+                &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Google Map API&lt;/a&gt;&lt;/li&gt;
+                &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Facial Recognition JS&lt;/a&gt;&lt;/li&gt;
+                &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Turbolink&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;
+            &lt;div class=&quot;inner-content-section&quot;&gt;
+              &lt;p&gt;
+                &lt;b&gt;Sharing Party&lt;/b&gt;
+
+              &lt;p&gt;
+
+                Sharing Party is an Italian website/social media website to share details of different parties,
+                events and halls. It is a Rails 4.3 website and hosted on Heroku.
+              &lt;/p&gt;
+              &lt;p&gt;
+                SHaring party consist 2 type of Users, Normal and Admin User. Admin User manage entire website, where
+                Normal users can only add Parties, Follow other users.
+              &lt;/p&gt;
+              &lt;p&gt;
+                One of the interesting feature is, we add user recognition javascript library to cross check profile images.
+                None of the Frontend framework used on it. jQuery, Turbolinks, Owl Carousel, Google map are used in it.
+              &lt;/p&gt;
+              &lt;p&gt;
+                Bootstrap used as CSS framework. Zurb Ink used for Email template.
+              &lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</description>
         <pubDate>Mon, 24 Oct 2016 08:47:24 +0530</pubDate>
         <link>/sharing-party-ruby-on-rails.html</link>
         <guid isPermaLink="true">/sharing-party-ruby-on-rails.html</guid>
