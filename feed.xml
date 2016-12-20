@@ -6,8 +6,8 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Nov 2016 01:02:10 +0530</pubDate>
-    <lastBuildDate>Mon, 28 Nov 2016 01:02:10 +0530</lastBuildDate>
+    <pubDate>Tue, 20 Dec 2016 17:00:57 +0530</pubDate>
+    <lastBuildDate>Tue, 20 Dec 2016 17:00:57 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -22,21 +22,42 @@
         &lt;div class=&quot;portfolio-screen-shots&quot;&gt;
           
           &lt;div class=&quot;each-single-image&quot;&gt;
-            &lt;img src=&quot;/images/wordpress/7/layout-home.jpg&quot; alt=&quot;Home Page&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/7/home_SLIDER_WITH_BLOG.jpg&quot; alt=&quot;Home Page&quot;&gt;
             &lt;div class=&quot;contents&quot;&gt;
             &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
             &lt;/div&gt;
           &lt;/div&gt;
           
           &lt;div class=&quot;each-single-image&quot;&gt;
-            &lt;img src=&quot;/images/wordpress/7/layout-blog.jpg&quot; alt=&quot;Blog Page&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/7/BlogBrazil.png&quot; alt=&quot;Blog Page&quot;&gt;
             &lt;div class=&quot;contents&quot;&gt;
             &lt;h5 class=&quot;title&quot;&gt;Blog Page&lt;/h5&gt;
             &lt;/div&gt;
           &lt;/div&gt;
           
           &lt;div class=&quot;each-single-image&quot;&gt;
-            &lt;img src=&quot;/images/wordpress/7/layout-single.jpg&quot; alt=&quot;Single Page&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/7/Neque.png&quot; alt=&quot;Single Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Single Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/7/PageTemplateOne.png&quot; alt=&quot;Single Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Single Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/7/PageTemplateTwo.png&quot; alt=&quot;Single Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Single Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/7/PageTemplateThree.png&quot; alt=&quot;Single Page&quot;&gt;
             &lt;div class=&quot;contents&quot;&gt;
             &lt;h5 class=&quot;title&quot;&gt;Single Page&lt;/h5&gt;
             &lt;/div&gt;
@@ -62,8 +83,8 @@
             &lt;/ul&gt;
             &lt;h4&gt;Frameworks/Plugins&lt;/h4&gt;
             &lt;ul class=&quot;list-group&quot;&gt;
-              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Bootstrap 3.7&lt;/a&gt;&lt;/li&gt;
-              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;WordPress 4.X &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;WordPress 4.X&lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Bootstrap 3.7 &lt;/a&gt;&lt;/li&gt;
               &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Slick Carousel &lt;/a&gt;&lt;/li&gt;
             &lt;/ul&gt;
             &lt;/div&gt;
@@ -71,8 +92,8 @@
           &lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;
             &lt;div class=&quot;inner-content-section&quot;&gt;
               &lt;p&gt;
-                This is our 4th Wordpress website with same Brazilian client. This website also done in &lt;b&gt;Bootstrap 3.7&lt;/b&gt; version. We made 
-                custom post type. Custom landing pages etc.
+                This  our  Wordpress website. This website was done in &lt;b&gt;Bootstrap 3.7&lt;/b&gt; version.We use Scalable Vector Graphics in this. We made 
+                custom post type. 
               &lt;/p&gt;
             &lt;/div&gt;
             
@@ -90,6 +111,142 @@
         
         
         <category>wordpress</category>
+        
+      </item>
+    
+      <item>
+        <title>CPM Network - Middleman website</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xs-12&quot;&gt;
+      &lt;div class=&quot;page-header&quot;&gt;
+        &lt;h3&gt;CPM Network - Middleman website&lt;/h3&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-single-wrapper&quot;&gt;
+        &lt;div class=&quot;portfolio-screen-shots&quot;&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/8/cpm-home-page.png&quot; alt=&quot;Home Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Home Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/8/cpm-about-page.png&quot; alt=&quot;About Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;About Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/8/cpm-contact-page.png&quot; alt=&quot;Contact Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Contact Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/8/cpm-dashboard-user.png&quot; alt=&quot;Dashboard Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Dashboard Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/8/cpm-dashboard-form.png&quot; alt=&quot;Dashboard Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Dashboard Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/8/cpm-signup-page.png&quot; alt=&quot;SignUpPage&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;SignUpPage&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/8/cpm-dashboard-chart.png&quot; alt=&quot;Dashboard Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Dashboard Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/8/cpm-dashboard-table.png&quot; alt=&quot;Dashboard Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Dashboard Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/8/cpm-login-page.png&quot; alt=&quot;Login Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;Login Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+          &lt;div class=&quot;each-single-image&quot;&gt;
+            &lt;img src=&quot;/images/wordpress/8/cpm-faq-page.png&quot; alt=&quot;FAQ Page&quot;&gt;
+            &lt;div class=&quot;contents&quot;&gt;
+            &lt;h5 class=&quot;title&quot;&gt;FAQ Page&lt;/h5&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;portfolio-content&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;
+            &lt;div class=&quot;inner-content-development&quot;&gt;
+            &lt;h4&gt;Technologies&lt;/h4&gt;
+            &lt;ul class=&quot;list-group&quot;&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                Gulp
+              &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                Live reload
+              &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;
+                NPM
+              &lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;h4&gt;Frameworks/Plugins&lt;/h4&gt;
+            &lt;ul class=&quot;list-group&quot;&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Bootstrap 3.7&lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Middleman &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Carousel &lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Google Map API&lt;/a&gt;&lt;/li&gt;
+              &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;High Charts &lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;
+            &lt;div class=&quot;inner-content-section&quot;&gt;
+              &lt;p&gt;
+                &lt;b&gt;CPM Network&lt;/b&gt; is a frontend only work. In this project we use middleman to build static website. This website High charts, use Google map, Google place search and Bootstrap 3.7 used as CSS framework.              
+           
+              
+                This website is also made for our &lt;b&gt;Indian&lt;/b&gt; client.
+              &lt;/p&gt;
+            &lt;/div&gt;
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 24 Oct 2016 08:47:24 +0530</pubDate>
+        <link>/cpm-middleman.html</link>
+        <guid isPermaLink="true">/cpm-middleman.html</guid>
+        
+        
+        <category>middleman</category>
         
       </item>
     
@@ -159,7 +316,7 @@
              &lt;/p&gt;
              &lt;p&gt;
                Website use Bootstrap 4, Jquery and Slick carousel. We use modern &lt;b&gt;gulp&lt;/b&gt; as automation tool and &lt;b&gt;NPM&lt;/b&gt; as package manager. Website completed
-               within 2 days withour 3 frontend deveopers. 
+               within 2 days with our 3 frontend deveopers. 
              &lt;/p&gt;
 
             &lt;/div&gt;
@@ -339,6 +496,7 @@
             &lt;ul class=&quot;list-group&quot;&gt;
               &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Bootstrap 3.7&lt;/a&gt;&lt;/li&gt;
               &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;WordPress 4.X &lt;/a&gt;&lt;/li&gt;
+               &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Google Map API&lt;/a&gt;&lt;/li&gt;
               &lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;&quot;&gt;Slick Carousel &lt;/a&gt;&lt;/li&gt;
             &lt;/ul&gt;
             &lt;/div&gt;
